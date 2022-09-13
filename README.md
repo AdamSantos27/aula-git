@@ -1,6 +1,5 @@
 # Como usar o Git e Github na prática
 
-aula de git e github professor Natan
 
 ## Instalando o GIT
 
